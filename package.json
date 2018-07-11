@@ -1,0 +1,24 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "simple node server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/munjurinaazam/Simple-Node-Server.git"
+  },
+  "author": "MunjurinaAzam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/munjurinaazam/Simple-Node-Server/issues"
+  },
+  "homepage": "https://github.com/munjurinaazam/Simple-Node-Server#readme",
+  "devDependencies": {
+    "nodeman": "^1.1.2",
+    "nodemon": "^1.18.0"
+  }
+}
